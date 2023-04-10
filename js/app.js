@@ -3045,7 +3045,7 @@
                     spaceBetween: 0,
                     autoHeight: true
                 },
-                490: {
+                480: {
                     slidesPerView: 2,
                     spaceBetween: 30
                 },
