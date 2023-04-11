@@ -1201,6 +1201,8 @@ body {
   height: 100%;
   border-radius: 1.125rem;
   position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
